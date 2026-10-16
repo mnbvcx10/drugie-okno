@@ -32,6 +32,7 @@
                FontStyle="Italic"
                FontWeight="Bold"
                Foreground="#FFFDD0"
+               Background="Pink"
                HorizontalAlignment="Center"
                VerticalAlignment="Center" />
 </Window>
