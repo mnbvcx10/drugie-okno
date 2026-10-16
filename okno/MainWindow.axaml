@@ -39,6 +39,8 @@
                        HorizontalAlignment="Center"
                        TextAlignment="Center" />
             <TextBlock Text="Zadanie"
+                       FontFamily="Palatino Linotype, Garamond, serif"
+                       FontStyle="Italic"
                        Foreground="Pink"
                        Background="#FFFDD0"
                        HorizontalAlignment="Center"
