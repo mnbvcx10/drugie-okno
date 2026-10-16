@@ -27,12 +27,15 @@
             </DrawingBrush.Drawing>
         </DrawingBrush>
     </Window.Background>
-    <TextBlock Text="Warsztat"
-               FontSize="48"
-               FontStyle="Italic"
-               FontWeight="Bold"
-               Foreground="#FFFDD0"
-               Background="Pink"
-               HorizontalAlignment="Center"
-               VerticalAlignment="Center" />
+    <Grid>
+        <TextBlock Text="Warsztat"
+                   FontSize="48"
+                   FontStyle="Italic"
+                   FontWeight="Bold"
+                   Foreground="#FFFDD0"
+                   Background="Pink"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   TextAlignment="Center" />
+    </Grid>
 </Window>
