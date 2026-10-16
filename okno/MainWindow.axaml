@@ -39,6 +39,7 @@
                        HorizontalAlignment="Center"
                        TextAlignment="Center" />
             <TextBlock Text="Zadanie"
+                       Foreground="Pink"
                        HorizontalAlignment="Center"
                        TextAlignment="Center" />
         </StackPanel>
