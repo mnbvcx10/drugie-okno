@@ -30,6 +30,7 @@
     <TextBlock Text="Warsztat"
                FontSize="48"
                FontStyle="Italic"
+               FontWeight="Bold"
                Foreground="#FFFDD0"
                HorizontalAlignment="Center"
                VerticalAlignment="Center" />
