@@ -4,7 +4,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="okno.MainWindow"
-        Title="okno">
+        Title="okno"
+        Width="800"
+        Height="450"
+        CanResize="False">
     <Window.Background>
         <DrawingBrush TileMode="Tile"
                       Stretch="None"
