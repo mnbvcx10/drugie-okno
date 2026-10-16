@@ -28,6 +28,7 @@
         </DrawingBrush>
     </Window.Background>
     <TextBlock Text="Warsztat"
+               FontSize="48"
                HorizontalAlignment="Center"
                VerticalAlignment="Center" />
 </Window>
