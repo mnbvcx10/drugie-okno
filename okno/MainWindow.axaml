@@ -49,5 +49,9 @@
                        HorizontalAlignment="Center"
                        TextAlignment="Center" />
         </StackPanel>
+        <Button Content="naciśnij"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Bottom"
+                Margin="0,0,0,16" />
     </Grid>
 </Window>
