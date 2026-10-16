@@ -28,14 +28,19 @@
         </DrawingBrush>
     </Window.Background>
     <Grid>
-        <TextBlock Text="Warsztat"
-                   FontSize="48"
-                   FontStyle="Italic"
-                   FontWeight="Bold"
-                   Foreground="#FFFDD0"
-                   Background="Pink"
-                   HorizontalAlignment="Center"
-                   VerticalAlignment="Center"
-                   TextAlignment="Center" />
+        <StackPanel HorizontalAlignment="Center"
+                    VerticalAlignment="Center">
+            <TextBlock Text="Warsztat"
+                       FontSize="48"
+                       FontStyle="Italic"
+                       FontWeight="Bold"
+                       Foreground="#FFFDD0"
+                       Background="Pink"
+                       HorizontalAlignment="Center"
+                       TextAlignment="Center" />
+            <TextBlock Text="Zadanie"
+                       HorizontalAlignment="Center"
+                       TextAlignment="Center" />
+        </StackPanel>
     </Grid>
 </Window>
