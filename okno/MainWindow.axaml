@@ -29,6 +29,7 @@
     </Window.Background>
     <TextBlock Text="Warsztat"
                FontSize="48"
+               FontStyle="Italic"
                HorizontalAlignment="Center"
                VerticalAlignment="Center" />
 </Window>
